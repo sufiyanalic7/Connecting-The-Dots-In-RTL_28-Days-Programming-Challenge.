@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Mon Nov 10 14:32:43 2025
+[*]
+[dumpfile] "/home/sufiyanali/Verilog/day1_combinational_gates/and_gate/and_gate.vcd"
+[dumpfile_mtime] "Mon Nov 10 14:04:13 2025"
+[dumpfile_size] 378
+[savefile] "/home/sufiyanali/Verilog/day1_combinational_gates/and_gate/and_gate.waveform.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] 3 116
+*-12.712472 14893 14893 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] and_tb.
+[sst_width] 233
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+[color] 4
+and_tb.u0.a
+@29
+and_tb.u0.b
+@28
+[color] 1
+and_tb.u0.y
+[pattern_trace] 1
+[pattern_trace] 0

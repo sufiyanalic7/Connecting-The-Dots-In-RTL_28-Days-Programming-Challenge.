@@ -1,0 +1,6 @@
+# Yosys automation script for AND gate
+read_verilog and_gate.v
+synth -top and_gate
+show -format svg -prefix and_gate_schematic
+write_json and_gate.json
+write_verilog and_gate_netlist.v
