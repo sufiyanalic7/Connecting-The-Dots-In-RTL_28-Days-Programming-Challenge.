@@ -9,6 +9,7 @@ This repository documents my day by day journey of learning digital design and V
 ## Accomplished
 
 [Day 1 - And Gate](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY%20%3A1%20-%20AND%20GATE)
+
 [Day 2 - OR Gate](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY%3A2%20OR%20GATE)
 
 ## PROGRESSING TO BUILD
