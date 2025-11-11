@@ -13,7 +13,6 @@ This repository documents my day by day journey of learning digital design and V
 [Day 2 - OR Gate](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY%3A2%20OR%20GATE)
 
 ## PROGRESSING TO BUILD
-- DAY 2: OR GATE
 - DAY 3: NAND GATE  
 - DAY 4: NOR GATE  
 - DAY 5: XOR GATE  
