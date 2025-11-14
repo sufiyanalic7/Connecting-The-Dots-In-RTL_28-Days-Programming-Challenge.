@@ -1,0 +1,30 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Fri Nov 14 16:05:48 2025
+[*]
+[dumpfile] "/home/sufiyanali/Verilog/day1_combinational_gates/test_nand.vcd"
+[dumpfile_mtime] "Fri Nov 14 15:36:16 2025"
+[dumpfile_size] 370
+[savefile] "/home/sufiyanali/Verilog/day1_combinational_gates/nand_gate/nand_gate.gtk.gtkw"
+[timestart] 0
+[size] 1920 944
+[pos] -51 -51
+*-2.723291 20 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] nand_tb.
+[sst_width] 233
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 263
+@28
+nand_tb.u0_DUT.a
+@200
+-
+@28
+nand_tb.u0_DUT.b
+@200
+-
+@28
+[color] 1
+nand_tb.u0_DUT.y
+[pattern_trace] 1
+[pattern_trace] 0
