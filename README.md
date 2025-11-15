@@ -18,8 +18,7 @@ This repository documents my day by day journey of learning digital design and V
 
 [Day 5 - xNor Gate](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY5%3A%20XNOR%20GATE)
 ## PROGRESSING TO BUILD
-- DAY 5: XOR GATE  
-- DAY 6: XNOR GATE  
+- DAY 6: XOR GATE  
 - DAY 7: INVERTER  
 - DAY 8: HALF ADDER  
 - DAY 9: FULL ADDER  
