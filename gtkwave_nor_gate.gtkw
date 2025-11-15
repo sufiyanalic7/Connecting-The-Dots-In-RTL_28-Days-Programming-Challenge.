@@ -1,0 +1,30 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Sat Nov 15 20:48:13 2025
+[*]
+[dumpfile] "/home/sufiyanali/Verilog/day1_combinational_gates/nor_gate/nor_gate.vcd"
+[dumpfile_mtime] "Sat Nov 15 20:37:23 2025"
+[dumpfile_size] 370
+[savefile] "/home/sufiyanali/Verilog/day1_combinational_gates/nor_gate/gtkwave_nor_gate.gtkw"
+[timestart] 2
+[size] 1000 600
+[pos] -1 -1
+*-3.688525 40 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] nor_tb.
+[sst_width] 233
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+nor_tb.u0_Dut.a
+@200
+-
+@28
+nor_tb.u0_Dut.b
+@200
+-
+@29
+[color] 1
+nor_tb.u0_Dut.y
+[pattern_trace] 1
+[pattern_trace] 0
