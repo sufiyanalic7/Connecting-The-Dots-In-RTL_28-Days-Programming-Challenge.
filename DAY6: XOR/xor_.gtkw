@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Sun Nov 16 18:26:17 2025
+[*]
+[dumpfile] "/home/sufiyanali/Verilog/day1_combinational_gates/xor_gate/test_xor.vcd"
+[dumpfile_mtime] "Sun Nov 16 18:09:59 2025"
+[dumpfile_size] 369
+[savefile] "/home/sufiyanali/Verilog/day1_combinational_gates/xor_gate/xor_.gtkw"
+[timestart] 0
+[size] 1920 944
+[pos] -1 -1
+*-2.723291 20 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 263
+@28
+xor_tb.a
+@200
+-
+@28
+xor_tb.b
+@200
+-
+@29
+[color] 1
+xor_tb.y
+[pattern_trace] 1
+[pattern_trace] 0
