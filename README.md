@@ -3,23 +3,27 @@
 
 ## About
 
-A Digital Book of our Verilog-based RTL designs with testbenches, simulated using Icarus Verilog and GTKWave. This repo upholds the foundational digital logic circuits as part of my VLSI learning journey using open-source tools. 
+A Digital Book of our Verilog-based RTL designs with testbenches, simulated using Icarus Verilog and GTKWave and synthesis with Yosys. This repo upholds the foundationa in digital logic circuits as part of my VLSI learning journey using open-source tools. 
 This repository documents my day by day journey of learning digital design and Verilog HDL from scratch.
 
 ## Accomplished
 
-[Day 1 - And Gate](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY%20%3A1%20-%20AND%20GATE)
+[Day 1 - AND GATE ](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY%20%3A1%20-%20AND%20GATE)
 
-[Day 2 - OR Gate](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY%3A2%20OR%20GATE)
+[Day 2 - OR GATE ](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY%3A2%20OR%20GATE)
 
-[Day 3 - Nand Gate](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY%3B3%20NAND%20GATE)
+[Day 3 - NAND GATE ](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY%3B3%20NAND%20GATE) 
 
-[Day 4 - Nor Gate](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY4%3A%20NOR%20GATE)
+[Day 4 - NOR GATE ](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY4%3A%20NOR%20GATE)
 
-[Day 5 - xNor Gate](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY5%3A%20XNOR%20GATE)
+[Day 5 - XNOR GATE ](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY5%3A%20XNOR%20GATE)
+
+[Day 6 - XOR GATE ](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY6%3A%20XOR)
+
+[Day 7 - Not Gate-(INVERTER) ](https://github.com/sufiyanalic7/Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming./tree/main/DAY%207%20%3A%20NOT%20GATE%20(INVERTER))
+
 ## PROGRESSING TO BUILD
-- DAY 6: XOR GATE  
-- DAY 7: INVERTER  
+
 - DAY 8: HALF ADDER  
 - DAY 9: FULL ADDER  
 - DAY 10: 2*1 MUX  
@@ -45,3 +49,4 @@ This repository documents my day by day journey of learning digital design and V
 - DAY 30: CLOCK DIVIDER  
 - DAY 31: MEALY FSM  
 - DAY 32: MOORE FSM
+- NEVER STOP LEARNING, ITS A CONTINUES PROCESS. MORE TO GO.....
