@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Mon Nov 17 22:24:43 2025
+[*]
+[dumpfile] "/home/sufiyanali/Verilog/day1_combinational_gates/not_gate/not_gate.vcd"
+[dumpfile_mtime] "Mon Nov 17 22:18:47 2025"
+[dumpfile_size] 337
+[savefile] "/home/sufiyanali/Verilog/day1_combinational_gates/not_gate/not_gate_gtk.gtkw"
+[timestart] 0
+[size] 1920 944
+[pos] -51 -51
+*-12.912952 8830 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 263
+@28
+[color] 3
+not_gate_tb.a
+@200
+-
+@29
+not_gate_tb.y
+@200
+-
+[pattern_trace] 1
+[pattern_trace] 0
