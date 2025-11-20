@@ -1,0 +1,34 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Thu Nov 20 16:42:27 2025
+[*]
+[dumpfile] "/home/sufiyanali/Verilog/RTL_DESIGN/half_adder/test_ha.vcd"
+[dumpfile_mtime] "Thu Nov 20 16:38:22 2025"
+[dumpfile_size] 416
+[savefile] "/home/sufiyanali/Verilog/RTL_DESIGN/half_adder/halfadder.gtkw"
+[timestart] 1
+[size] 1000 600
+[pos] -1 -1
+*-2.723291 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+ha_tb.a
+@200
+-
+@28
+ha_tb.b
+@200
+-
+@28
+[color] 1
+ha_tb.c
+@200
+-
+@29
+[color] 1
+ha_tb.s
+[pattern_trace] 1
+[pattern_trace] 0
