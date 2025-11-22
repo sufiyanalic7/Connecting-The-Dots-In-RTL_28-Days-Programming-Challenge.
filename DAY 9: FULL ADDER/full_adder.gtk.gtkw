@@ -1,0 +1,38 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Sat Nov 22 19:38:08 2025
+[*]
+[dumpfile] "/home/sufiyanali/Verilog/RTL_DESIGN/full_adder/full_adder.vcd"
+[dumpfile_mtime] "Sat Nov 22 19:36:15 2025"
+[dumpfile_size] 531
+[savefile] "/home/sufiyanali/Verilog/RTL_DESIGN/full_adder/full_adder.gtk.gtkw"
+[timestart] 1
+[size] 1000 600
+[pos] -1 -1
+*-4.670823 80 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@29
+full_adder_tb.a
+@200
+-
+@28
+full_adder_tb.b
+@200
+-
+@28
+full_adder_tb.cin
+@200
+-
+@28
+[color] 1
+full_adder_tb.cout
+@200
+-
+@28
+[color] 1
+full_adder_tb.s
+[pattern_trace] 1
+[pattern_trace] 0
