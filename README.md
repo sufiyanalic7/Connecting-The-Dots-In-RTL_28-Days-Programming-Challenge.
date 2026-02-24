@@ -1,4 +1,4 @@
-# Connecting-The-Dots-In-RTL-DaybyDay-using-Icarus-verilog_Gtkwave_Yosys-Programming.
+# Connecting-The-Dots-In-RTL-using-open_source.
 #### Upholding the RTL journey
 
 ## About
